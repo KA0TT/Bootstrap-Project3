@@ -1,0 +1,101 @@
+        body {
+            background: url("../Bootstrap-Project3/images/nature2.jpg") no-repeat center center fixed;
+            background-size: cover;
+            font-family: 'Rye', cursive;
+            font-weight: bold;
+        }
+        
+        h1 {
+            margin-top: 85px;
+            margin-bottom: 35px;
+            border: 10px;
+            border-radius: 24px;
+            padding: 10px;
+            background: url("../Boostrap-Project3/images/woodgrain.jpg");
+            color: snow;
+            text-shadow: 6px 6px 8px black;
+            box-shadow: 0 0 20px silver;
+            border: 2px solid sienna;
+        }
+        
+        .btn1 {
+            padding: 15px;
+            margin: 0 auto;
+            border-radius: 24px;
+            background-image: url("../Bootstrap-Project3/images/woodgrain.jpg");
+            color: snow;
+            text-shadow: 6px 6px 8px black;
+            text-decoration: none;
+            box-shadow: 0 0 20px silver;
+            border: 2px solid sienna;
+        }
+        
+        #logo1,
+        .img-thumbnail {
+            width: 300px;
+            height: 300px;
+            padding: 20px;
+            margin: 0 auto;
+            border: 25px solid sienna;
+            box-shadow: 0 0 100px silver;
+        }
+        
+        .form-control {
+            box-shadow: 0 0 20px silver;
+        }
+        
+        .checkbox {
+            margin-bottom: 5px;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        #login-modal .modal-dialog {
+            width: 350px;
+        }
+        
+        #login-modal input[type=text],
+        input[type=password] {
+            margin-top: 30px;
+            border-radius: 24px;
+            border: 3px solid sienna;
+        }
+        
+        .btn2 {
+            position: relative;
+            padding: 30px;
+            text-align: center;
+            width: 100%;
+            font-size: 30px;
+            float: left;
+            border-radius: 20px;
+            background-image: url("../Bootstrap-Project3/images/woodgrain.jpg");
+            color: snow;
+            text-shadow: 6px 6px 8px black;
+        }
+        
+        .btn3 {
+            padding: 23px;
+            text-align: center;
+            width: 100%;
+            font-size: 25px;
+            float: right;
+            border-radius: 24px;
+            background-image: url("../Bootstrap_Project3/images/woodgrain.jpg");
+            color: snow;
+            text-shadow: 6px 6px 8px black;
+        }
+        
+        #id,
+        .modal-dialog,
+        .modal-body,
+        .modal-footer {
+            margin: 0 auto;
+            text-align: center;
+            background-image: url("../Bootstrap-Project3/images/woodgrain.jpg");
+            color: snow;
+            text-shadow: 6px 6px 8px black;
+            font-size: 25px;
+            box-shadow: 0 0 20px silver;
+            flex-basis: auto;
+        }
